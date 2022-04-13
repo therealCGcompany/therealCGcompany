@@ -6,7 +6,7 @@
 - @Jeyson
 - @Efrain
 - 👀 We're a team interested in full-stack web development
-- 🌱 We're currently learning to make a full project
+- 🌱 We're currently learning ...
 - 📫 How to reach me: therealcgcompany@gmail.com
 
 <!---
